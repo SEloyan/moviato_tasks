@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    font-size: 0;
+    display: inline-block;
+}
+
+img {
+    width: 90px;
+    border-top-left-radius: 1cm;
+    border-bottom-left-radius: 1cm;
+}
+
+span {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    background-color: black;
+    width: 90px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
