@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inputs {
+    display:inline-block;
+    margin-top: 5px;
+    margin-left: 5px; 
+}
+
+.errors {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+#button {
+    margin-top: 5px;
+    margin-left: 5px;
+}
