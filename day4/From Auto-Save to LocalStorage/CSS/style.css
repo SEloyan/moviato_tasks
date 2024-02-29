@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div {
+    width: 100%;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.errors {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+button {
+    width: 80px;
+    height: 20px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
